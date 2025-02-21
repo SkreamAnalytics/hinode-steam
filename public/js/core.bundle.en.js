@@ -6510,7 +6510,7 @@ function initIndex() {
         tag: "en",
         href: "/my-hinode-site/en/contact/",
         title: "Contact",
-        description: "Oamaru Steam and Rail Restoration Society Inc.\n2A Itchen Street\nOamaru 9400\nNew Zealand\nEmail\ngeneralmanager@oamaru-steam.org.nz\ntrafficmanager@oamaru-steam.org.nz\ninfo@oamaru-steam.org.nz\nOur train is available for Charters most any time and can be tailored to suit your requirements. Contact us for availability and more information.\nOur regular monthly Coffee Chats are held from 10am on the second Friday of the month at The Brydone. Anyone, whether a member or not, is welcome to come along for a cuppa and a chat!\n",
+        description: "Contact us here",
         
         
         content: "Oamaru Steam and Rail Restoration Society Inc.\n2A Itchen Street\nOamaru 9400\nNew Zealand\nEmail\ngeneralmanager@oamaru-steam.org.nz\ntrafficmanager@oamaru-steam.org.nz\ninfo@oamaru-steam.org.nz\nOur train is available for Charters most any time and can be tailored to suit your requirements. Contact us for availability and more information.\nOur regular monthly Coffee Chats are held from 10am on the second Friday of the month at The Brydone. Anyone, whether a member or not, is welcome to come along for a cuppa and a chat!"
@@ -6528,7 +6528,7 @@ function initIndex() {
         description: "All our fares go directly to maintaining our locomotives and railway.",
         
         
-        content: "Return Adult $12.00\nUnder 5 free Under 17 $5.00\nFamily(2 Adults \u0026amp; 2 Children) $28.00\\\nOne-way tickets are also available.\nCost saving tip: Membership of the society entitles you to take the train any Sunday during the year for\nfree with no further obligations. Talk to the Station Master for details!"
+        content: "Return Fare\nChild under 5 free Child up to 16 $5.00 Adult $12.00 Family(2 Adults \u0026amp; 2 Children) $28.00 One-way tickets are also available.\nMembership of the society entitles you to take the train any Sunday during the year for free with no further obligations. Talk to the Station Master for details!"
       })
       .add(
       

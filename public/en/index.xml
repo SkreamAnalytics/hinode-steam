@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ens on My New Hugo Site</title>
+    <title>Ens on Oamaru Steam and Rail</title>
     <link>http://localhost:1313/my-hinode-site/en/</link>
-    <description>Recent content in Ens on My New Hugo Site</description>
+    <description>Recent content in Ens on Oamaru Steam and Rail</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/my-hinode-site/en/fares/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/my-hinode-site/en/fares/</guid>
-      <description>&lt;pre&gt;&lt;code&gt;  &#x9;Return&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Adult &#x9;  &#x9;$12.00&lt;br&gt;&#xA;Under 5 &#x9;free &lt;br&gt;&#xA;Under 17  &#x9;$5.00&lt;br&gt;&#xA;Family(2 Adults &amp;amp; 2 Children) &#x9;  &#x9;$28.00\&lt;/p&gt;&#xA;&lt;p&gt;One-way tickets are also available.&lt;/p&gt;&#xA;&lt;p&gt;Cost saving tip: Membership of the society entitles you to take the train any Sunday during the year for&lt;/p&gt;&#xA;&lt;p&gt;free with no further obligations. Talk to the Station Master for details!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;strong&gt;Return Fare&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;table class=&#34;table&#34;&gt;&#xA;  &lt;thead&gt;&#xA;    &#xA;      &#xA;      &lt;tr&gt;&#xA;          &lt;th &gt;&lt;/th&gt;&#xA;          &lt;th &gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;    &#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;    &#xA;      &#xA;        &lt;tr&gt;&#xA;            &lt;td &gt;Child under 5&lt;/td&gt;&#xA;            &lt;td &gt;free&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;      &#xA;    &#xA;      &#xA;        &lt;tr&gt;&#xA;            &lt;td &gt;Child up to 16&lt;/td&gt;&#xA;            &lt;td &gt;$5.00&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;      &#xA;    &#xA;      &#xA;        &lt;tr&gt;&#xA;            &lt;td &gt;Adult&lt;/td&gt;&#xA;            &lt;td &gt;$12.00&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;      &#xA;    &#xA;      &#xA;        &lt;tr&gt;&#xA;            &lt;td &gt;Family(2 Adults &amp;amp; 2 Children)&lt;/td&gt;&#xA;            &lt;td &gt;$28.00&lt;/td&gt;&#xA;        &lt;/tr&gt;&#xA;      &#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&lt;p&gt;One-way tickets are also available.&lt;/p&gt;&#xA;&lt;p&gt;Membership of the society entitles you to take the train any Sunday during the year for free with no further obligations. Talk to the Station Master for details!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our trains</title>
