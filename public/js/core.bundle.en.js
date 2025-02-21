@@ -6528,7 +6528,7 @@ function initIndex() {
         description: "All our fares go directly to maintaining our locomotives and railway.",
         
         
-        content: "Return Adult $12.00 Child $5.00 Family $28.00\nChild (up to 16 years) (under 5 years is free)\nFamily (2 Adults \u0026amp; 2 Children)\nOne-way tickets are also available.\nCost saving tip: Membership of the society entitles you to take the train any Sunday during the year for\nfree with no further obligations. Talk to the Station Master for details!"
+        content: "Return Adult $12.00\nUnder 5 free Under 17 $5.00\nFamily(2 Adults \u0026amp; 2 Children) $28.00\\\nOne-way tickets are also available.\nCost saving tip: Membership of the society entitles you to take the train any Sunday during the year for\nfree with no further obligations. Talk to the Station Master for details!"
       })
       .add(
       
