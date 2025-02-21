@@ -1,0 +1,5 @@
+baseURL = 'https://skreamanalytics.github.io/my-hinode-site/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[[module.imports]]
+path = 'github.com/gethinode/hinode'
