@@ -1,5 +1,5 @@
 baseURL = 'https://skreamanalytics.github.io/my-hinode-site/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Oamaru Steam and Rail'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
