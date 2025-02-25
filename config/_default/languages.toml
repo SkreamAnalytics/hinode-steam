@@ -7,6 +7,11 @@
 # toml-docs-start lang-param
     [en.params.head]
         tagline = "A Hugo Theme"
+    [en.params.social]
+	title = "Don't Follow me"
+        caption = "I am a tool"
     [en.params.footer]
         # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer nofollow'>CC BY-NC-SA 4.0</a>)."
 # toml-docs-end lang-param
+[en.params.sections.news]
+    reference = "More News"

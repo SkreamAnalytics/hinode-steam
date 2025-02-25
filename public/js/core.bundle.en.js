@@ -6553,8 +6553,98 @@ function initIndex() {
       {
         id: 4,
         tag: "en",
+        href: "/my-hinode-site/news/202403---copy-2/",
+        title: "March 2024",
+        description: "News and happenings March 2024",
+        
+        
+        content: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 5,
+        tag: "en",
+        href: "/my-hinode-site/news/202403---copy-3/",
+        title: "March 2024",
+        description: "News and happenings March 2024",
+        
+        
+        content: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 6,
+        tag: "en",
+        href: "/my-hinode-site/news/202403---copy-5/",
+        title: "March 2024",
+        description: "News and happenings March 2024",
+        
+        
+        content: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 7,
+        tag: "en",
+        href: "/my-hinode-site/news/202403---copy-6/",
+        title: "March 2024",
+        description: "News and happenings March 2024",
+        
+        
+        content: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 8,
+        tag: "en",
+        href: "/my-hinode-site/news/202403---copy/",
+        title: "March 2024",
+        description: "News and happenings March 2024",
+        
+        
+        content: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 9,
+        tag: "en",
+        href: "/my-hinode-site/news/202403/",
+        title: "March 2024",
+        description: "News and happenings March 2024",
+        
+        
+        content: "On the Railway\n387 passengers were carried on four busy running days in February. The guards van received replacement steel on its ends, as areas of corrosion continue to be addressed before repainting. Additional areas of concrete were laid in the southwestern part of the workshop to bring the floor up to railhead level. Just a few sections remain to be done. New van ends New trolley, holding cement Raised concrete floor sections Safety Innovations The open wagon is being fitted with water tanks and a pump that can be used to spray down dry areas of grass to reduce the risk of lineside fires. Four tanks will be fitted, carrying around 800 litres of water in total. To minimise the possibility of bags or little legs falling beneath carriage gates, the tops of the wooden end platforms were extended out 5-10cm using a block of wood (its edge painted white) and topped with non-slip metal. This is also visible in the picture in the top-right corner of this page."
+      })
+      .add(
+      
+      
+      
+      
+      {
+        id: 10,
+        tag: "en",
         href: "/my-hinode-site/en/trains/",
-        title: "Our trains",
+        title: "Our Trains",
         description: "We proudly operate both a steam train as well as deisel locomotives.",
         
         
@@ -6566,7 +6656,7 @@ function initIndex() {
       
       
       {
-        id: 5,
+        id: 11,
         tag: "en",
         href: "/my-hinode-site/en/timetable/",
         title: "Timetable",
