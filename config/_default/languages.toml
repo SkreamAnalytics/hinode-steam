@@ -8,8 +8,8 @@
     [en.params.head]
         tagline = "A Hugo Theme"
     [en.params.social]
-	title = "Don't Follow me"
-        caption = "I am a tool"
+	    title = "" # footer title
+        caption = "" # footer caption
     [en.params.footer]
         # license = "Licensed under Creative Commons (<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/' class='link-secondary' target='_blank' rel='noopener noreferrer nofollow'>CC BY-NC-SA 4.0</a>)."
 # toml-docs-end lang-param

@@ -46,7 +46,7 @@
     horizontal = false
     offset = "5.5rem"
     offsetXS = "5.5rem"
-    search = true
+    search = false
     searchModal = false
     breadcrumb = true
     toc = true
@@ -70,7 +70,7 @@
     adapter = "assets/adapters/cloudinary.html"
 
 [sharing]
-    enabled = true
+    enabled = false # turned off
     sort = "weight"
     reverse = false
     webshare = true
