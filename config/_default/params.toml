@@ -1,0 +1,148 @@
+[main]
+    separator = "-"
+    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    enableDarkMode = true
+    enableLanguageSelectionStorage = true
+    modes = ["light", "dark"]
+    canonifyAssetsURLs = false
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
+    titleCase = true
+    [main.internalLinks]
+        validate = true
+        pretty = true
+    [main.externalLinks]
+        cue = true
+        tab = true
+    [main.build]
+        transpiler = "dartsass"
+        silenceDeprecations = true
+
+[debugging]
+    showJS = false
+    showSCSS = false
+    purgeHTMLComments = true # prevents a Goldmark warning when processing HTML comments (as used by markdownlint)
+    includeSVGOrigin = true
+
+[home]
+    sections = ["about", "news"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+    [home.feature]
+        orientation = "horizontal"
+        color = "primary"
+        width = 4
+        align = "start"
+
+[navigation]
+    anchor = true
+    logo = "/img/logo_icon.svg"
+    color = "body"
+    fixed = true
+    overlay = false
+    overlayMode = "dark"
+    horizontal = false
+    offset = "5.5rem"
+    offsetXS = "5.5rem"
+    search = false
+    searchModal = false
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+
+[messages]
+    placement = "bottom-right"
+
+[dam]
+    dimensions = "dimensions.yml"
+    videoCodecs = [
+        "webm/vp9",
+        "mp4/h265",
+        "mp4"
+    ]
+
+[[dam.providers]]
+    name = "Cloudinary"
+    pattern = "cloudinary"
+    adapter = "assets/adapters/cloudinary.html"
+
+[sharing]
+    enabled = false # turned off
+    sort = "weight"
+    reverse = false
+    webshare = true
+
+[[sharing.providers]]
+    name = "Facebook"
+    url = "https://www.facebook.com/sharer.php?u={url}"
+    icon = "fab facebook"
+    weight = 30
+
+[[sharing.providers]]
+    name = "WhatsApp"
+    url = "whatsapp://send?text={title}%20{url}"
+    icon = "fab whatsapp"
+    weight = 40
+
+[[sharing.providers]]
+    name = "email"
+    url = "{url}"
+    icon = "fas link"
+    weight = 50
+    clipboard = true
+
+[sections]
+    [sections.about]
+        title = "About"
+        sort = "date"
+        reverse = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = true
+    [sections.news]
+        title = "News"
+        sort = "date"
+        reverse = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = true
+    
+[favicon]
+    logo = "img/favicon.png"
+    sizes = [16, 32, 48]
+
+# toml-docs-start theme-colors
+[style]
+    primary = "#d43900"
+    secondary = "#6c757d"
+    success = "#198754"
+    info = "#0dcaf0"
+    warning = "#ffc107"
+    danger = "#dc3545"
+    light = "#f8f9fa"
+    dark = "#212529"
+    themeOpacity = "10"
+    darkModeShade = "20%"
+    darkModeTint = "40%"
+    themeFont = "Inter"
+    # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
+    themeFontPath = "/fonts" # local path
+    themeFontPreload = "/fonts/inter-v12-latin-regular.woff2"
+    purge = true
+# toml-docs-end theme-colors
+
