@@ -1,35 +1,34 @@
 [[main]]
   name = "About"
-  weight = 10
+  weight = 1
 
 [[main]]
   name = "About Us"
-  pageRef = "/en/about/"
+  pageRef = "/about/about/"
   parent = "About"
   weight = 1
 
 [[main]]
   name = "Timetable"
-  pageRef = "/en/timetable/"
+  pageRef = "/about/timetable/"
   parent = "About"
   weight = 2
 
 [[main]]
   name = "Fares"
-  pageRef = "/en/fares/"
+  pageRef = "/about/fares/"
   parent = "About"
   weight = 3
 
 [[main]]
   name = "Our trains"
-  pageRef = "/en/trains/"
-  parent = "About"
-  weight = 4
+  pageRef = "/trains/"
+  weight = 2
 
 [[main]]
   name = "Contact"
-  pageRef = "/en/contact/"
-  weight = 20
+  pageRef = "/contact/"
+  weight = 3
 
 # toml-docs-start sample-navigation
 [[sample]]

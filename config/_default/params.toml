@@ -26,7 +26,7 @@
     includeSVGOrigin = true
 
 [home]
-    sections = ["news"]
+    sections = ["about", "news"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -95,6 +95,19 @@
     clipboard = true
 
 [sections]
+    [sections.about]
+        title = "About"
+        sort = "date"
+        reverse = true
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom card-body-margin"
+        homepage = 3
+        separator = true
     [sections.news]
         title = "News"
         sort = "date"
