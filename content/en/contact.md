@@ -2,7 +2,6 @@
 title: 'Contact'
 description: 'Contact us here'
 ---
-
 Oamaru Steam and Rail Restoration Society Inc.\
 2A Itchen Street\
 Oamaru 9400\

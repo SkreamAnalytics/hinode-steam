@@ -5,7 +5,6 @@ date: 2025-10-01
 updated: 2025-11-02
 showComments: false
 ---
-
 **Steam Locomotive B10**
 
 {{< image src="/img/trains/b10.jpg" class="img-fluid w-50" wrapper="text-center" >}}
