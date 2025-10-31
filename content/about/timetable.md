@@ -5,7 +5,6 @@ date: 2025-10-01
 updated: 2025-11-02
 showComments: false
 ---
-
 The train departs from Harbourside Station at the corner of Humber and Itchen Streets in the historic Harbourside area of Oamaru, New Zealand. 
 
 After leaving the station, you travel through the Historic Precinct, past some of Oamaru's oldest buildings and then through the old railway yard and past the site of Oamaru's first railway station. The train then runs along the bottom of clay cliffs, beside Oamaru's Victorian Harbour. 
