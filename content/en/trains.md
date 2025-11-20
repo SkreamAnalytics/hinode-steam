@@ -1,6 +1,6 @@
 ---
 title: Our trains
-description: We proudly operate both a steam train as well as deisel locomotives.
+description: We proudly operate both a steam train as well as diesel locomotives.
 date: 2025-10-01
 updated: 2025-11-02
 showComments: false
