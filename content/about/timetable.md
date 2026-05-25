@@ -1,7 +1,6 @@
 ---
 title: Timetable
 description: We run every Sunday, except Christmas Day, weather permitting and subject to volunteer staffing.
-date: 2025-10-01
 updated: 2025-11-02
 showComments: false
 ---
