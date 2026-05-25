@@ -1,23 +1,24 @@
 [[main]]
   name = "About"
+  identifier = "about"
   weight = 1
 
 [[main]]
   name = "About Us"
-  pageRef = "/about/about/"
-  parent = "About"
+  pageRef = "/about/"
+  parent = "about"
   weight = 1
 
 [[main]]
   name = "Timetable"
   pageRef = "/about/timetable/"
-  parent = "About"
+  parent = "about"
   weight = 2
 
 [[main]]
   name = "Fares"
   pageRef = "/about/fares/"
-  parent = "About"
+  parent = "about"
   weight = 3
 
 [[main]]
