@@ -1,7 +1,6 @@
 ---
 title: Fares
 description: All our fares go directly to maintaining our locomotives and railway.
-date: 2025-10-01
 updated: 2025-11-02
 showComments: false
 ---
