@@ -22,7 +22,7 @@
 
 [[main]]
   name = "Our trains"
-  pageRef = "/en/trains/"
+  pageRef = "/trains/"
   weight = 2
 
 [[main]]
