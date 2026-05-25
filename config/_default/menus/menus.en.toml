@@ -22,12 +22,12 @@
 
 [[main]]
   name = "Our trains"
-  pageRef = "/en/trains/"
+  pageRef = "/trains/"
   weight = 2
 
 [[main]]
   name = "Contact"
-  pageRef = "/en/contact/"
+  pageRef = "/contact/"
   weight = 3
 
 # toml-docs-start sample-navigation
